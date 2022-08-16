@@ -80,7 +80,7 @@ Make an item look like it is glowing by adding shadow:
 ### Useful resources
 
 - [Stack Overflow](https://stackoverflow.com/questions/22196587/how-to-vertically-center-a-container-in-bootstrap) - This help me out with vertically centering a `div`
-- [Fetch API - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) - Refer this to use Fetch API with Javascript
+- [Fetch API - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) - Refer this to fetch API with Javascript
 
 
 ## Author
