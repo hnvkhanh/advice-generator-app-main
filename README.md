@@ -44,7 +44,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Vanilla Javascript
+- Vanilla JavaScript
 - [Bootstrap v5.2](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 
 ### What I learned
