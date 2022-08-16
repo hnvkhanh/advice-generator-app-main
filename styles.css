@@ -1,0 +1,63 @@
+body{
+    font-family: 'Manrope', sans-serif;
+    background-color: hsl(218, 23%, 16%);
+    color:hsl(193, 38%, 86%);
+    font-size: 12px;
+}
+
+/* Button's styles configure */
+
+.btn{
+    background-color: hsl(150, 100%, 66%);
+    border-radius: 5rem;    
+    padding: 0.65rem;
+    margin-bottom: -3rem;
+    box-shadow: none;
+}
+
+.btn:hover{
+    background-color: hsl(150, 100%, 66%);
+    box-shadow: 0 0 20px 2px hsl(150, 100%, 66%);    
+}
+
+.btn:focus{
+    background-color: hsl(150, 100%, 66%);     
+}
+
+/* Image's styles configure */
+
+.dice{
+    width: 75%;
+}
+
+.divider{
+    margin: 1.5rem auto;
+}
+
+/* Card's styles configure */
+
+.card{
+    background-color: hsl(217, 19%, 24%);
+    max-width: 500px;
+    margin: auto 1rem;     
+    border-radius: 15px;
+}
+
+.card-text{
+    font-size: 28px;
+}
+
+.card-title{
+    color: hsl(150, 100%, 66%);
+    margin: 1.5rem auto;
+    letter-spacing: 5px;    
+}
+
+/* Change margin of divider on different screen size */
+
+@media (max-width: 400px){
+    .divider{
+        margin: 0.5rem auto;
+    }
+}
+
