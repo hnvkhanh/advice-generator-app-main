@@ -52,7 +52,7 @@ Users should be able to:
 
 ### What I learned
 
-Fetch API using Javascript:
+Fetch API with Javascript:
 ```js
 function getAdvice(){
   fetch("https://api.adviceslip.com/advice")
